@@ -1,0 +1,52 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Dependency directories (remove the comment below if you have vendored dependencies)
+vendor/
+
+# Go workspace file
+*.code-workspace
+
+# Log files
+*.log
+
+# IDE-specific files
+.idea/
+*.iml
+
+# Directory for IDE project files
+.idea/
+
+# User-specific stuff
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+
+# System-specific and temporary files
+.idea/usage.statistics.xml
+.idea/shelf/
+.idea/modules.xml
+.idea/.idea
+
+# IDE project directories
+.idea/*
+
+# Editor-specific files
+*.swp
+*.swo
+
+# IntelliJ files
+out/
